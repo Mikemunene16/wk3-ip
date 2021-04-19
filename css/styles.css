@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 .navbar{ background:black;
          opacity: 0.9;
 }
@@ -51,4 +55,14 @@
   60% {
     transform: translateY(-45px);
   }
+}
+
+.about{
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top:40px;
+  font-family: 'Nunito', sans-serif;
+}
+#about{
+  font-family: 'Gabriela', serif;
 }
