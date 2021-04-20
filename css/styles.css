@@ -86,3 +86,13 @@ html{
   padding-top: 10%;
   padding-bottom: 10%;
 }
+
+.what-we-do{
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Nunito', serif;
+}
+.what-we-do .headings{
+  padding-bottom: 38px;
+}
