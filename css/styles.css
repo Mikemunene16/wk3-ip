@@ -66,3 +66,23 @@ html{
 #about{
   font-family: 'Gabriela', serif;
 }
+
+.services{
+  text-align: center;
+  background-image: url("https://wpamelia.com/wp-content/uploads/2019/02/astronomy-constellation-dark-998641.jpg");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Copse', serif;
+  font-size: 18px;
+}
+.services h2{
+  font-family: 'Gabriela', serif;
+  
+}
+#services{
+  background-color: rgba(0,0,0,0.4);
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
