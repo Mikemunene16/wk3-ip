@@ -64,7 +64,7 @@ html{
   font-family: 'Nunito', sans-serif;
 }
 #about{
-  font-family: 'Gabriela', serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 .services{
@@ -74,11 +74,11 @@ html{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: 'Copse', serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 18px;
 }
 .services h2{
-  font-family: 'Gabriela', serif;
+  font-family: 'Nunito', sans-serif;
   
 }
 #services{
