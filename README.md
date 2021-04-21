@@ -1,7 +1,7 @@
 # Delani Studios
  Creating a responsive website.
 ## Prerequisites
-Basic Git knowledge, including an installed version of Git.
+Making a responsive website
 ##### Technologies Used
 - HTML 
 - CSS
