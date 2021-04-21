@@ -134,4 +134,8 @@ footer p{
   margin-top: 10px;
 }
 
+#mc_embed_signup {
+  background-image: url("");
+  background-size: cover;
+}
 
