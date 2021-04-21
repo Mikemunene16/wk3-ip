@@ -12,6 +12,10 @@ Making a responsive website
 - Open terminal command line then navigate to the root folder of the application. 
 `cd my-project`
 - Open `index.html` on your browser.
+
+###Live link
+https://mikemunene16.github.io/wk3-ip/
+
 ## Development
 Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:
