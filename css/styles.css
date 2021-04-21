@@ -4,6 +4,7 @@ html{
 
 .navbar{ background:black;
          opacity: 0.9;
+         
 }
 
 .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
